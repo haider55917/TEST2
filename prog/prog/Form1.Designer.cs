@@ -44,8 +44,14 @@
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
             this.button7 = new System.Windows.Forms.Button();
+<<<<<<< Updated upstream
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.checkedListBox2 = new System.Windows.Forms.CheckedListBox();
+=======
+            this.button8 = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
+>>>>>>> Stashed changes
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
@@ -174,7 +180,11 @@
             this.label1.Location = new System.Drawing.Point(493, 63);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
+<<<<<<< Updated upstream
             this.label1.Size = new System.Drawing.Size(140, 17);
+=======
+            this.label1.Size = new System.Drawing.Size(111, 13);
+>>>>>>> Stashed changes
             this.label1.TabIndex = 10;
             this.label1.Text = "الى سيد حيدر المحترم";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -190,6 +200,7 @@
             this.button7.Text = "محمد وسام";
             this.button7.UseVisualStyleBackColor = false;
             // 
+<<<<<<< Updated upstream
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
@@ -207,14 +218,52 @@
             this.checkedListBox2.Name = "checkedListBox2";
             this.checkedListBox2.Size = new System.Drawing.Size(120, 80);
             this.checkedListBox2.TabIndex = 13;
+=======
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.Lime;
+            this.button8.Location = new System.Drawing.Point(795, 258);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(96, 55);
+            this.button8.TabIndex = 12;
+            this.button8.Text = "محمد وسام";
+            this.button8.UseVisualStyleBackColor = false;
+            // 
+            // button9
+            // 
+            this.button9.BackColor = System.Drawing.Color.Lime;
+            this.button9.Location = new System.Drawing.Point(795, 197);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(96, 55);
+            this.button9.TabIndex = 13;
+            this.button9.Text = "محمد وسام";
+            this.button9.UseVisualStyleBackColor = false;
+            // 
+            // button10
+            // 
+            this.button10.BackColor = System.Drawing.Color.Lime;
+            this.button10.Location = new System.Drawing.Point(795, 136);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(96, 55);
+            this.button10.TabIndex = 14;
+            this.button10.Text = "محمد وسام";
+            this.button10.UseVisualStyleBackColor = false;
+>>>>>>> Stashed changes
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< Updated upstream
             this.ClientSize = new System.Drawing.Size(1370, 559);
             this.Controls.Add(this.checkedListBox2);
             this.Controls.Add(this.checkBox2);
+=======
+            this.ClientSize = new System.Drawing.Size(1174, 454);
+            this.Controls.Add(this.button10);
+            this.Controls.Add(this.button9);
+            this.Controls.Add(this.button8);
+>>>>>>> Stashed changes
             this.Controls.Add(this.button7);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView2);
@@ -254,8 +303,14 @@
         private System.Windows.Forms.DataGridView dataGridView2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button7;
+<<<<<<< Updated upstream
         private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.CheckedListBox checkedListBox2;
+=======
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button button9;
+        private System.Windows.Forms.Button button10;
+>>>>>>> Stashed changes
 =======
         private System.Windows.Forms.Button button7;
 >>>>>>> Stashed changes
