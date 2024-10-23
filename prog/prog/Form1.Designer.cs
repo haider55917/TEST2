@@ -41,11 +41,7 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
-<<<<<<< Updated upstream
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
-=======
-            this.button7 = new System.Windows.Forms.Button();
->>>>>>> Stashed changes
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
@@ -74,18 +70,10 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-<<<<<<< Updated upstream
             this.dataGridView1.Location = new System.Drawing.Point(543, -4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(266, 334);
-=======
-            this.dataGridView1.Location = new System.Drawing.Point(232, 15);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.Size = new System.Drawing.Size(685, 162);
->>>>>>> Stashed changes
             this.dataGridView1.TabIndex = 2;
             // 
             // comboBox1
@@ -144,65 +132,37 @@
             // 
             // button5
             // 
-<<<<<<< Updated upstream
             this.button5.Location = new System.Drawing.Point(386, 203);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(75, 24);
-=======
-            this.button5.Location = new System.Drawing.Point(607, 236);
-            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(88, 28);
->>>>>>> Stashed changes
+            this.button5.Size = new System.Drawing.Size(75, 117);
             this.button5.TabIndex = 7;
             this.button5.Text = "button5";
             this.button5.UseVisualStyleBackColor = true;
             // 
             // button6
             // 
-<<<<<<< Updated upstream
-            this.button6.Location = new System.Drawing.Point(399, 174);
+            this.button6.Location = new System.Drawing.Point(399, 85);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(75, 24);
-=======
-            this.button6.Location = new System.Drawing.Point(341, 240);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(75, 23);
->>>>>>> Stashed changes
+            this.button6.Size = new System.Drawing.Size(75, 113);
             this.button6.TabIndex = 8;
             this.button6.Text = "button6";
             this.button6.UseVisualStyleBackColor = true;
             // 
-<<<<<<< Updated upstream
             // dataGridView2
             // 
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Location = new System.Drawing.Point(179, 14);
             this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.RowHeadersWidth = 51;
             this.dataGridView2.Size = new System.Drawing.Size(175, 306);
             this.dataGridView2.TabIndex = 9;
-=======
-            // button7
-            // 
-            this.button7.Location = new System.Drawing.Point(506, 240);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(75, 23);
-            this.button7.TabIndex = 9;
-            this.button7.Text = "button7";
-            this.button7.UseVisualStyleBackColor = true;
->>>>>>> Stashed changes
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-<<<<<<< Updated upstream
             this.ClientSize = new System.Drawing.Size(836, 342);
             this.Controls.Add(this.dataGridView2);
-=======
-            this.ClientSize = new System.Drawing.Size(975, 421);
-            this.Controls.Add(this.button7);
->>>>>>> Stashed changes
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.checkedListBox1);
