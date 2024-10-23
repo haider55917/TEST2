@@ -171,9 +171,13 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(423, 51);
             this.label1.Name = "label1";
+<<<<<<< Updated upstream
             this.label1.Size = new System.Drawing.Size(72, 13);
+=======
+            this.label1.Size = new System.Drawing.Size(140, 17);
+>>>>>>> Stashed changes
             this.label1.TabIndex = 10;
-            this.label1.Text = "الى سيد حيدر";
+            this.label1.Text = "الى سيد حيدر المحترم";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button7
