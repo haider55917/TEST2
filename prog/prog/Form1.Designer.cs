@@ -65,10 +65,17 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+<<<<<<< HEAD
             this.dataGridView1.Location = new System.Drawing.Point(554, 60);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(236, 138);
+=======
+            this.dataGridView1.Location = new System.Drawing.Point(199, 12);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.Size = new System.Drawing.Size(587, 132);
+>>>>>>> 909c8f9d789c13f4dff0899fca765682a64100d9
             this.dataGridView1.TabIndex = 2;
             // 
             // comboBox1
@@ -130,8 +137,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(836, 342);
+<<<<<<< HEAD
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
+=======
+>>>>>>> 909c8f9d789c13f4dff0899fca765682a64100d9
             this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.comboBox1);
