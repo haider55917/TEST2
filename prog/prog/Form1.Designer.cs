@@ -59,13 +59,14 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(76, 81);
+            this.button1.BackColor = System.Drawing.Color.Red;
+            this.button1.Location = new System.Drawing.Point(66, 42);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(64, 19);
+            this.button1.Size = new System.Drawing.Size(64, 116);
             this.button1.TabIndex = 1;
             this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             // 
             // dataGridView1
             // 
