@@ -38,6 +38,8 @@
             this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.button5 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -66,16 +68,22 @@
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.dataGridView1.Location = new System.Drawing.Point(554, 60);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(236, 138);
 =======
+=======
+>>>>>>> 86532b3f0bd6684e61f2a437063547bc0486e6ea
             this.dataGridView1.Location = new System.Drawing.Point(199, 12);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(587, 132);
+<<<<<<< HEAD
 >>>>>>> 909c8f9d789c13f4dff0899fca765682a64100d9
+=======
+>>>>>>> 86532b3f0bd6684e61f2a437063547bc0486e6ea
             this.dataGridView1.TabIndex = 2;
             // 
             // comboBox1
@@ -132,16 +140,29 @@
             this.button4.Text = "button4";
             this.button4.UseVisualStyleBackColor = false;
             // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(520, 192);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(75, 23);
+            this.button5.TabIndex = 7;
+            this.button5.Text = "button5";
+            this.button5.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(836, 342);
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
 =======
 >>>>>>> 909c8f9d789c13f4dff0899fca765682a64100d9
+=======
+            this.Controls.Add(this.button5);
+>>>>>>> 86532b3f0bd6684e61f2a437063547bc0486e6ea
             this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.comboBox1);
@@ -168,6 +189,8 @@
         private System.Windows.Forms.CheckedListBox checkedListBox1;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button button5;
     }
 }
 
